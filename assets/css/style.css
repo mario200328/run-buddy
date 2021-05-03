@@ -1,0 +1,10 @@
+body {
+    /*more on this crazy alphanumberical value in a minute! */
+    color: #39a6b2;
+    font-family: Helvetica, Arial, sans-serif;
+}
+ /* apply style to <header>*/
+ header {
+     padding: 20px 35px;
+     background-color: #39a6b2;
+ }
