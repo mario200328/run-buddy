@@ -11,4 +11,7 @@ A website that offers fitness training service.
 https://lernantino.github.io/run-buddy/
 
 ## Contribution
-Madie with ❤️ by Mario Balderas
+Made with ❤️ by Mario Balderas
+
+### ©️2019 Run Buddy, Inc 
+
